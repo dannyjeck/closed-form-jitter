@@ -29,7 +29,7 @@ doi: 10.1109/CISS.2015.7086908
 
 ## Files
 
-The function to perform the interval jitter hypothesis test is [jitter_closed_form.m](./jitter_closed_form.m)
+The function to perform the interval jitter hypothesis test is [jitter_closed_form.m](./jitter_closed_form.m), which calls [generate_table.m](./generate_table.m).
 
 
 [speed_test.m](./speed_test.m) and [speed_test2.m](./speed_test2.m) were used to generate the figures in the technical report.

@@ -2,7 +2,7 @@
 
 Code for performing the interval jitter hypothesis test in a closed-form fashion.
 
-# Publication
+## Publication
 
 The code here was was developed for the following [technical report](https://arxiv.org/abs/1502.07907). 
 
@@ -27,7 +27,7 @@ This work was also presented at CISS 2015
 D. Jeck and E. Niebur, "Closed form jitter methods for neuronal spike train analysis," 2015 49th Annual Conference on Information Sciences and Systems (CISS), Baltimore, MD, 2015, pp. 1-3.
 doi: 10.1109/CISS.2015.7086908
 
-# Files
+## Files
 
 The function to perform the interval jitter hypothesis test is jitter_closed_form.m
 

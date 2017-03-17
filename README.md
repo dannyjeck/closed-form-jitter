@@ -1,6 +1,6 @@
 # Closed-form-jitter
 
-Code for performing the interval jitter hypothesis test in a closed-form fashion.
+MATLAB Code for performing the interval jitter hypothesis test in a closed-form fashion.
 
 ## Abstract
   Interval jitter and spike resampling methods are used to analyze the
